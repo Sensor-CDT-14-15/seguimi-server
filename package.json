@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Sensors-CDT-14-15/seguimi-server/issues"
   },
-  "homepage": "https://github.com/Sensors-CDT-14-15/seguimi-server#readme"
+  "homepage": "https://github.com/Sensors-CDT-14-15/seguimi-server#readme",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
 }
